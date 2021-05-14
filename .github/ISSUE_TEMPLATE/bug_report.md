@@ -26,5 +26,15 @@ If applicable, add screenshots with descriptions to help explain your problem.
  - Platform: [e.g. Android, iOS, Gameloop, etc]
  - Game Version [e.g. ]
 
+**Please provide the region you are closest to:**
+
+- [ ] North America
+- [ ] South America
+- [ ] European Union
+- [ ] Middle East
+- [ ] Asia
+- [ ] Africa
+- [ ] Australia/New Zealand
+
 **Additional context**
 Add any other context about the problem here.
